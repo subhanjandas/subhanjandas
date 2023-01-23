@@ -9,14 +9,10 @@
 <p align="left"> <a href="https://twitter.com/subhanjansd" target="blank"><img src="https://img.shields.io/twitter/follow/subhanjansd?logo=twitter&style=for-the-badge" alt="subhanjansd" /></a> </p>
 
 - 🔭 I’m currently working on [Dashboards](https://public.tableau.com/app/profile/subhanjan.subhasis.das)
-
 - 👨‍💻 All of my projects are available at [https://github.com/subhanjandas](https://github.com/subhanjandas)
-
 - 💬 Ask me about **Business Intelligence**
-
 - 📫 How to reach me **subhanjan33@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +27,9 @@
 
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
 
-### - My Opensource Story
+### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Database Projects: PostgreSQL, MySQL] - 
+- **Database Projects**: PostgreSQL, MySQL - 
   - [Data Analysis for Digital Music Store using SQL]([https://github.com/gautamkrishnar/nothing-private](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL)) - Data Analysis project to help Chinook Digital Music Store to help how they can optimize their business            opportunities and to help answering business related questions.
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
 - [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
