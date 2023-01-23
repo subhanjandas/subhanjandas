@@ -24,7 +24,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/subhanjandas](https://github.com/subhanjandas)
 - 💬 Ask me about **Business Intelligence**
 - 📫 How to reach me **subhanjan33@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+
 
 <details>
   <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
@@ -70,6 +70,9 @@ Most of the open-source projects I create are the solutions to the problems I fa
 - Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
 - Won 1st place in Several Hackathons
 </details> 
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+
 <details>
   <summary><h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2></summary>
   <br/>
