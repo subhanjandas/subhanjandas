@@ -22,7 +22,7 @@
 <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" align="right" width="500" height="300"> 
 
 </details>
-/n 
+<br> 
 
 📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
 
