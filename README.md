@@ -36,7 +36,7 @@
 I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions.
 
 ### My Portfolio
-- **Data Visualization and Dashboarding**: ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI) ![Google Analytics](https://img.shields.io/badge/-Google-Analytics-000?&logo=Google-Analytics) ![SPSS](https://img.shields.io/badge/-SPSS-000?&logo=SPSS)
+- **Data Visualization and Dashboarding**: ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI) ![Google Analytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics) ![Cognos](https://img.shields.io/badge/-Cognos-000?&logo=Cognos)
   - [Bank and Credit Card Complaints Analysis using Tableau](https://public.tableau.com/views/BankandCreditCardComplaintsDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) - Built a dashboard using Tableau that analyzes credit card complaints data. The dashboard allows for a comprehensive analysis of the data through the use of custom calculations and parameters. This enables users to identify patterns and trends in the data, and make data-driven decisions. The visualizations in the dashboard are interactive and visually appealing, making it easy to understand and interpret the data. The purpose of the project is to improve customer satisfaction and reduce complaints by gaining a better understanding of the complaints data. 
   - [Employee Attrition - What makes employees quit?](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
@@ -56,7 +56,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
   
-- **Data Analysis using Excel**: ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90)
+- **Data Analysis using Excel**: ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90) ![SPSS](https://img.shields.io/badge/-SPSS-000?&logo=SPSS) 
   - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - Maximized Expected Return to Risk Ratio by building a baseball team from a catalogue of 3,000+ with several complex constraints including salary
 
 
