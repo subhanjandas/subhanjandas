@@ -18,8 +18,9 @@
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
   
   ![](https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif)
- <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif" align="left" width="100" height="50"> 
+ <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif" align="left" width="500" height="300"> 
 </details>
+
 
 📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
 
