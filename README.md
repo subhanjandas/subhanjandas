@@ -20,7 +20,7 @@
 
 <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif" align="left" width="500" height="300"> 
 <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" align="right" width="500" height="300"> 
-  
+</br>  
 </details>
 
 
