@@ -33,7 +33,7 @@
 </p>
 
 <details>
-  <summary><b>✨&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
+  <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
   <br/>
 
 I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions.
