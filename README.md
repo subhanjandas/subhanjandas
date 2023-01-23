@@ -40,14 +40,22 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   - [Bank and Credit Card Complaints Analysis using Tableau](https://public.tableau.com/views/BankandCreditCardComplaintsDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) - Built a dashboard using Tableau that analyzes credit card complaints data. The dashboard allows for a comprehensive analysis of the data through the use of custom calculations and parameters. This enables users to identify patterns and trends in the data, and make data-driven decisions. The visualizations in the dashboard are interactive and visually appealing, making it easy to understand and interpret the data. The purpose of the project is to improve customer satisfaction and reduce complaints by gaining a better understanding of the complaints data. 
   - [Employee Attrition - What makes employees quit?](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
+  
 - **Predictive Analytics and Machine Learning**: Python, SciKitLearn, Keras, TensorFlow, R, etc. ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
   - [US Flight Delays Prediction Models based on Naïve Bayes, Regression Tree, and Logistic Regression Algorithms](https://github.com/subhanjandas/FlightDelays) - Built three machine learning models to predict flight delays, with model accuracy of 85.14%!
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
-- **Database Projects**: ![SQL](https://img.shields.io/badge/-SQL-007?&logo=MySQL) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-00&?&logo=Postgresql) 
+  
+- **Database Projects**: ![SQL](https://img.shields.io/badge/-SQL-006?&logo=MySQL) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-00&?&logo=Postgresql) 
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
+  
+- **Big Data and Cloud Projects**: ![SQL](https://img.shields.io/badge/-SQL-007?&logo=MySQL) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-00&?&logo=Postgresql) 
+  - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
+  project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
+  - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
+  
 - **Data Analysis using Excel**: Excel Solver and Data Analysis ToolPak
   - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - Maximized Expected Return to Risk Ratio by building a baseball team from a catalogue of 3,000+ with several complex constraints including salary
 
