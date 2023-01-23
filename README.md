@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanjandas" alt="subhanjandas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/subhanjansd" target="blank"><img src="https://img.shields.io/twitter/follow/subhanjansd?logo=twitter&style=for-the-badge" alt="subhanjansd" /></a> </p>
-
 - 🔭 I’m currently working on [Dashboards](https://public.tableau.com/app/profile/subhanjan.subhasis.das)
 - 👨‍💻 All of my projects are available at [https://github.com/subhanjandas](https://github.com/subhanjandas)
 - 💬 Ask me about **Business Intelligence**
