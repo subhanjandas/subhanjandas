@@ -31,7 +31,7 @@
 
 I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
 
-### My Opensource Story
+### - My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Database Projects: PostgreSQL, MySQL] - 
   - [Data Analysis for Digital Music Store using SQL]([https://github.com/gautamkrishnar/nothing-private](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL)) - Data Analysis project to help Chinook Digital Music Store to help how they can optimize their business            opportunities and to help answering business related questions.
