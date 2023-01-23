@@ -11,11 +11,9 @@
 
 <p align="justify">I am a postgrad student of Business Analytics with 11 years of coding experience.</p>
 
-<p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS, using a DSi app called Petit Computer. In 2015 I found NodeJS, and started using it to create some basic bots for various chat platforms.</p>
+<p align="justify">I started in 2020 with Python, making simple data exploration projects and expanding my knowledge over time. Around mid-to-end 2021, I started to learn Machine Learning and Deep Learning concepts with Python libraries like SciKitLearn, Keras, TensorFlow to create predictive models. During this time I also started with my Analytics post graduate program and learned Big Data tools like Apache hadoop with Hive and Pig for web scraping and Business Intelligence tools like Tableau, Power BI and IBM Cognos. In 2015 I found NodeJS, and started using it to create some basic bots for various chat platforms.</p>
 
-<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.</p>
-
-<p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
+<p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as all cloud platforms. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reportin is to help others. I enjoy being able to create something that stakeholders can use to make their desions easier and data driven </p>
   
 <br>
   
