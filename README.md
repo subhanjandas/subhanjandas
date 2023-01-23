@@ -6,7 +6,7 @@
 📫 Reach me at **subhanjan33@gmail.com** or **subhanjandas33@gmail.com** 
 
 <details>
-  <summary><b><h2>✨&nbsp;&nbsp;About&nbsp;Me</h2></b></summary>
+  <summary><b><h2>👨&nbsp;&nbsp;About&nbsp;Me</h2></b></summary>
   <br/>
 
 <p align="justify">I am a postgrad student of Business Analytics with 11 years of coding experience.</p>
