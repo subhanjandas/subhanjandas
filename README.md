@@ -46,7 +46,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   
-- **Database Projects**: ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-001&?&logo=Postgresql) ![SQLite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
+- **Database Projects**: ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) ![PostgreSQL](https://img.shields.io/badge/-Postgresql-001&?&logo=Postgresql&logoColor=F90) ![SQLite](https://img.shields.io/badge/-sqlite-000?&logo=sqlite)
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
@@ -56,7 +56,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
   
-- **Data Analysis using Excel**: Excel Solver and Data Analysis ToolPak
+- **Data Analysis using Excel**: ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90)
   - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - Maximized Expected Return to Risk Ratio by building a baseball team from a catalogue of 3,000+ with several complex constraints including salary
 
 
