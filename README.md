@@ -21,7 +21,7 @@
   
 </details>
 
-- 📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
 
 <details>
   <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
