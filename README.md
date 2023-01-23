@@ -6,8 +6,6 @@
 
 <img align="right" alt="Coding" width 400 src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanjandas" alt="subhanjandas" /></a> </p>
-
 - 🔭 I’m currently working on [Dashboards](https://public.tableau.com/app/profile/subhanjan.subhasis.das)
 - 👨‍💻 All of my projects are available at [https://github.com/subhanjandas](https://github.com/subhanjandas)
 - 💬 Ask me about **Business Intelligence**
