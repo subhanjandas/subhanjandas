@@ -68,7 +68,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 - Won 1st place in Several Hackathons
 </details> 
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/subhanjandas), [Tableau Public](https://public.tableau.com/app/profile/subhanjan.subhasis.das), [Kaggle](https://www.kaggle.com/subhanjan33)
+👨‍💻 All of my projects are available at [Github](https://github.com/subhanjandas), [Tableau Public](https://public.tableau.com/app/profile/subhanjan.subhasis.das), [Kaggle](https://www.kaggle.com/subhanjan33)
 
 <details>
   <summary><h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2></summary>
