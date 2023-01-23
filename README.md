@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subhanjan Das</h1>
 
-<h4 align="center">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</h3>
+
+📕 &nbsp;**Latest Blog Posts**
+As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding
 
 ![](https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif)
 
@@ -23,9 +25,9 @@
   <summary><b>✨&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
   <br/>
 
-I am a Full Stack Developer with 8+ years of experience in developing enterprise applications and open-source software.
+I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions.
 
-### My Opensource Story
+### My Portfolio
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - **Database Projects**: PostgreSQL, MySQL - 
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
