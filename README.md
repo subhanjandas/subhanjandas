@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Subhanjan Das</h1>
+
+<h3 align="center">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</h3>
+
+<img align="right" alt="Coding" width 400 src="file:///Users/subhanjan/Library/Mobile%20Documents/com~apple~CloudDocs/MyPortfolio/ezgif.com-gif-maker.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanjandas" alt="subhanjandas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/subhanjansd" target="blank"><img src="https://img.shields.io/twitter/follow/subhanjansd?logo=twitter&style=for-the-badge" alt="subhanjansd" /></a> </p>
