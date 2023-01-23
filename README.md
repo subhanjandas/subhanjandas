@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhanjan Das</h1>
 
 
-<h2>👨 About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
+<summary><h2>👨 About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2><summary>
 
 <p align="justify">I am a NodeJS developer with 11 years of coding experience.</p>
 
