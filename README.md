@@ -4,7 +4,6 @@
 <p align="justify">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
 
 - 🔭 I’m currently working on [Dashboards](https://public.tableau.com/app/profile/subhanjan.subhasis.das)
-- 👨‍💻 All of my projects are available at [https://github.com/subhanjandas](https://github.com/subhanjandas)
 - 💬 Ask me about **Business Intelligence**
 - 📫 How to reach me **subhanjan33@gmail.com**
 
@@ -71,7 +70,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 - Won 1st place in Several Hackathons
 </details> 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/subhanjandas), [Tableau Public](https://public.tableau.com/app/profile/subhanjan.subhasis.das), [Kaggle](https://www.kaggle.com/subhanjan33)
 
 <details>
   <summary><h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2></summary>
