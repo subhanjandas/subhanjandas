@@ -41,7 +41,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   - [Employee Attrition - What makes employees quit?](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   
-- **Predictive Analytics and Machine Learning**:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+- **Predictive Analytics and Machine Learning**:  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas) ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn) ![Scikit-Learn](https://img.shields.io/badge/-Scikit-Learn-000?&logo=Scikit-Learn)
   - [US Flight Delays Prediction Models based on Naïve Bayes, Regression Tree, and Logistic Regression Algorithms](https://github.com/subhanjandas/FlightDelays) - Built three machine learning models to predict flight delays, with model accuracy of 85.14%!
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
