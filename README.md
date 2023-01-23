@@ -18,7 +18,7 @@
 <p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments.</p>
   
   ![](https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif)
-  
+ <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker.gif" align="right" width="50" height="30"> 
 </details>
 
 📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
@@ -32,7 +32,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 ### My Portfolio
 - **Data Visualization and Dashboarding**: Tableau, Power BI, IBM Cognos Analytics, Google Analytics - 
   - [Bank and Credit Card Complaints Analysis using Tableau](https://public.tableau.com/views/BankandCreditCardComplaintsDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link) - Built a dashboard using Tableau that analyzes credit card complaints data. The dashboard allows for a comprehensive analysis of the data through the use of custom calculations and parameters. This enables users to identify patterns and trends in the data, and make data-driven decisions. The visualizations in the dashboard are interactive and visually appealing, making it easy to understand and interpret the data. The purpose of the project is to improve customer satisfaction and reduce complaints by gaining a better understanding of the complaints data. 
-  - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
+  - [Employee Attrition - What makes employees quit?](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - Data Analysis
   project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
 - **Predictive Analytics and Machine Learning**: Python, SciKitLearn, Keras, TensorFlow, R, etc. 
   - [US Flight Delays Prediction Models based on Naïve Bayes, Regression Tree, and Logistic Regression Algorithms](https://github.com/subhanjandas/FlightDelays) - Built three machine learning models to predict flight delays, with model accuracy of 85.14%!
