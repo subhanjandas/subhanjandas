@@ -49,7 +49,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
 - **Data Analysis using Excel**: Excel Solver and Data Analysis ToolPak
   - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - Maximized Expected Return to Risk Ratio by building a baseball team from a catalogue of 3,000+ with several complex constraints including salary
-  - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
+
 
 [⏩ &nbsp; and many more](https://github.com/subhanjandas?tab=repositories) 
 
