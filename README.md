@@ -27,14 +27,8 @@ I also love working with different technologies & platforms and my current favor
 
 <p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reportin is to help others. I enjoy being able to create something that stakeholders can use to make their desions easier and data driven </p>
   
-<br>
-  
-
-  
+<br>  
 </details>
-
-
-
 
 <details>
   <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
