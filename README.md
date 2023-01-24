@@ -83,6 +83,12 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 </details> 
 
 <br>
+📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+
+
+👨‍💻 All of my projects are available at [Github](https://github.com/subhanjandas), [Tableau Public](https://public.tableau.com/app/profile/subhanjan.subhasis.das), [Kaggle](https://www.kaggle.com/subhanjan33)
+
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/subhanjansd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhanjansd" height="30" width="40" /></a>
