@@ -3,6 +3,12 @@
 
 <p align="justify">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Python, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
 
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker3.gif" width="400" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" width="400" height="auto" /></a>
+</div> 
+[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/subhanjan.subhasis.das) 
+
 📫 Reach me at **subhanjan33@gmail.com** or **subhanjandas33@gmail.com** 
 
 <details>
@@ -16,15 +22,8 @@
 <p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reportin is to help others. I enjoy being able to create something that stakeholders can use to make their desions easier and data driven </p>
   
 <br>
+  
 
-<div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker3.gif" width="400" height="auto" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" width="400" height="auto" /></a>
-</div> 
-  
-<br>
-  
-[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/subhanjan.subhasis.das) 
   
 </details>
 
