@@ -84,10 +84,10 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 
 <p align="left">
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="Tableau" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="65" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="java" width="55" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="java" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="55" height="55"/> 
