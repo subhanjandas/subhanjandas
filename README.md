@@ -93,7 +93,6 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
       <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="45" height="55"/>
 </p>
 
