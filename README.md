@@ -31,7 +31,7 @@
 </details>
 
 
-📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+
 
 <details>
   <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
@@ -74,7 +74,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 - Won 1st place in Several Hackathons
 </details> 
 
-👨‍💻 All of my projects are available at [Github](https://github.com/subhanjandas), [Tableau Public](https://public.tableau.com/app/profile/subhanjan.subhasis.das), [Kaggle](https://www.kaggle.com/subhanjan33)
+
 
 <details>
   <summary><h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2></summary>
@@ -88,3 +88,6 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 <a href="https://linkedin.com/in/subhanjan-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanjan-das" height="30" width="40" /></a>
 <a href="https://kaggle.com/subhanjan33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhanjan33" height="30" width="40" /></a>
 </p>
+
+📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+👨‍💻 All of my projects are available at [Github](https://github.com/subhanjandas), [Tableau Public](https://public.tableau.com/app/profile/subhanjan.subhasis.das), [Kaggle](https://www.kaggle.com/subhanjan33)
