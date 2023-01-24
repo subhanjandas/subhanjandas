@@ -68,9 +68,11 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 - Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
 - Won 1st place in Several Hackathons
 
-<br>
+
 </details> 
 
+
+<br>
   <h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2>
   <br/>
 
