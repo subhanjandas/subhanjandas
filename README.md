@@ -83,6 +83,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 </details> 
 
 <br>
+
 📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
 
 
