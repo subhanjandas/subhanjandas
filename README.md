@@ -3,7 +3,10 @@
 
 <p align="justify">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Python, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
 
-<p align="center"> I ❤️ ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<p align="center"> 
+I ❤️  ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
+</p>
+
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker3.gif" width="400" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" width="400" height="auto" /></a>
@@ -56,7 +59,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   
 - **Big Data and Cloud Projects**: ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Azure&logoColor=F90) ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=Hadoop&logoColor=F90) ![GCP](https://img.shields.io/badge/-Scala-000?&logo=Scala&logoColor=F90)
   - [Data Analysis for Digital Music Store using SQL](https://github.com/subhanjandas/Digital-Music-Store---Data-Analysis-using-SQL) - <br> Data Analysis
-  project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.</br>
+  project to help Chinook Digital Music Store to help how they can optimize their business opportunities and to help answering business related questions.
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
   
 - **Data Analysis using Excel**: ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90) ![SPSS](https://img.shields.io/badge/-SPSS-000?&logo=SPSS) 
