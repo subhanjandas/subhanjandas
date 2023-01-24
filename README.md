@@ -3,6 +3,8 @@
 
 <p align="justify">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Python, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
 
+- I ❤️ <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="Tableau" width="65" height="65"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="55"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="65" height="55"/>
+
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker3.gif" width="400" height="auto" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" width="400" height="auto" /></a>
