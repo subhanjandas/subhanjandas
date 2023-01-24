@@ -57,7 +57,10 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
   - [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This project is a proof of concept that any website can identify and track       you, even if you are using private browsing or incognito mode in your web browser. It has around 1000K+ users and 1.8K+ stars.  It got discussed in     many privacy forums and conferences worldwide. Various privacy-focused browser vendors were able to implement fixes to prevent fingerprinting due       to this project. It also made lots of people aware of the bad effects of browser fingerprinting.
   
 - **Data Analysis using Excel**: ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90) ![SPSS](https://img.shields.io/badge/-SPSS-000?&logo=SPSS) 
-  - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - Maximized Expected Return to Risk Ratio by building a baseball team from a catalogue of 3,000+ with several complex constraints including salary
+  - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - This project used advanced Excel tools such as Solver and Data Analysis ToolPak to optimize a baseball team's lineup and maximize the expected return to risk ratio while adhering to a set salary budget. Data on over 3,000 players was collected, cleaned and analyzed to identify the best players and positions. Data visualization techniques were used to present the results in an easy-to-understand format. The project provided valuable insights into building a winning team within a budget constraint.
+
+
+
 
 
 [⏩ &nbsp; and many more](https://github.com/subhanjandas?tab=repositories) 
