@@ -16,7 +16,12 @@
 <p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reportin is to help others. I enjoy being able to create something that stakeholders can use to make their desions easier and data driven </p>
   
 <br>
-  
+
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker3.gif" width="auto" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" width="auto" height="auto" /></a>
+</div> 
+
 <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker3.gif" align="left" width="500" height="300"> 
 <img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker2.gif" align="right" width="500" height="300"> 
   
