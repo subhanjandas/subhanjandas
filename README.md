@@ -68,10 +68,10 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 [⏩ &nbsp; and many more](https://github.com/subhanjandas?tab=repositories) 
 
 
-### Awards and Achievements
-- Won the 1st edition of [GitHub India Open Source Grants](https://github.blog/2021-09-12-recipients-open-source-grants-github-sponsors-india/)
-- Worked as [DuckDuckGo Community Leader](https://help.duckduckgo.com/community/community-leaders/) and Maintainer
-- Won 1st place in Several Hackathons
+### Certifications
+- [Tableau Desktop Specialist](https://www.credly.com/badges/89778b70-82ae-4d4b-b349-e0349268e1da/linked_in?t=rpb0wi)
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/LKbVSa-ZSJywB_Py6hS4MA)
+- [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/NPdQdbnGSI61_wQVArVxbg)
 
 </details> 
 
