@@ -59,6 +59,7 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
   
 - **Data Analysis using Excel**: ![Excel](https://img.shields.io/badge/-Excel-000?&logo=Excel&logoColor=F90) ![SPSS](https://img.shields.io/badge/-SPSS-000?&logo=SPSS) 
   - [MoneyBall: Sports Predictive Analytics](https://github.com/subhanjandas/MoneyBall-Sports-Predictive-Analytics-) - <br align="Justify"> This project used advanced Excel tools such as Solver and Data Analysis ToolPak to optimize a baseball team's lineup and maximize the expected return to risk ratio while adhering to a set salary budget. Data on over 500 players was collected, cleaned and analyzed to identify the best players and positions. Data visualization techniques were used to present the results in an easy-to-understand format. The project provided valuable insights into building a winning team within a budget constraint </br>
+  - [IBM SPSS - A Comprehensive Guide to Data Analysis and Data Modeling](https://github.com/subhanjandas/IBM-SPSS---A-Comprehensive-Guide-to-Data-Analysis-and-Data-Modeling) - <br align="Justify"> IBM SPSS Modeler is a comprehensive data analysis and modeling tool. This repository is a compilation of exercises outlined in the "Introduction to IBM SPSS Modeler" document by IBM. It covers the essential steps of data import, preparation, visualization, and model building. The repository includes building decision trees and linear regression models, demonstrating the tool's modeling capabilities. </br>
 
 
 
