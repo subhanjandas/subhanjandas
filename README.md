@@ -68,14 +68,14 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 [⏩ &nbsp; and many more](https://github.com/subhanjandas?tab=repositories) 
 
 
-### Certifications
+### 🔏 Certifications
 - [Tableau Desktop Specialist](https://www.credly.com/badges/89778b70-82ae-4d4b-b349-e0349268e1da/linked_in?t=rpb0wi)
 - [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/LKbVSa-ZSJywB_Py6hS4MA)
 - [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/NPdQdbnGSI61_wQVArVxbg)
 
-### Research Publications
+### 🔬 Research Publications
 - [Design of a Compact Negative-Edge Triggered T Flip-Flop in QCA Technology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592181) - The International Journal of Electrical Engineering and Technology (IJEET)
-- [Design of Efficient Adders & Subtractors based on Quantum Dot Cellular Automata]([https://analytics.google.com/analytics/academy/certificate/LKbVSa-ZSJywB_Py6hS4MA](https://www.ijraset.com/fileserve.php?FID=29022)) - International Journal for Research in Applied Science and Engineering Technology (IJRASET)
+- [Design of Efficient Adders & Subtractors based on Quantum Dot Cellular Automata](https://www.ijraset.com/fileserve.php?FID=29022) - International Journal for Research in Applied Science and Engineering Technology (IJRASET)
 
 </details> 
 
