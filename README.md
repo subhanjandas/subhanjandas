@@ -1,3 +1,6 @@
+[![Social banner for Subhanjan](https://github.com/subhanjandas/subhanjandas/blob/main/banner.png)](https://www.linkedin.com/in/subhanjan-das/)
+
+
 <h1 align="center">Hi 👋, I'm Subhanjan Das</h1>
 
 
