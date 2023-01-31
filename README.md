@@ -8,7 +8,7 @@ I also love working with different technologies & platforms and my current favor
 
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="auto" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="200" /></a>
 </div> 
 
 <br> 
