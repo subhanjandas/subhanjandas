@@ -1,8 +1,6 @@
 [![Social banner for Subhanjan](https://github.com/subhanjandas/subhanjandas/blob/main/banner%20(1).png)](https://www.linkedin.com/in/subhanjan-das/)
 
-<p align="justify">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Python, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
-
-I also love working with different technologies & platforms and my current favorite ones are ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
+<p align="justify">Welcome to my GitHub Profile :) </p>
 
 
 <div>
