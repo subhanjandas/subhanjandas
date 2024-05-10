@@ -1,12 +1,6 @@
 [![Social banner for Subhanjan](https://github.com/subhanjandas/subhanjandas/blob/main/banner%20(1).png)](https://www.linkedin.com/in/subhanjan-das/)
 
-<p align="justify">Welcome to my GitHub Profile :) </p>
-
-
-<div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="240" /></a>
-</div> 
+<p align="justify">
 
 <br> 
 
@@ -28,7 +22,10 @@
 <details>
   <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
   <br/>
-
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="240" /></a>
+</div> 
 I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions.
 
 ### My Portfolio
