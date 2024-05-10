@@ -1,11 +1,5 @@
 [![Social banner for Subhanjan](https://github.com/subhanjandas/subhanjandas/blob/main/banner%20(1).png)](https://www.linkedin.com/in/subhanjan-das/)
 
-<p align="justify">
-
-<br> 
-
-[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/subhanjan.subhasis.das) 
-
 📫 Reach me at **subhanjan33@gmail.com** or **subhanjandas33@gmail.com** 
 
 <details>
