@@ -16,20 +16,21 @@ I also love working with different technologies & platforms and my current favor
 
 📫 Reach me at **subhanjan33@gmail.com** or **subhanjandas33@gmail.com** 
 
+<summary><b><h2>👨&nbsp;&nbsp;About&nbsp;Me</h2></b></summary>
 <details>
-  <summary><b><h2>👨&nbsp;&nbsp;About&nbsp;Me</h2></b></summary>
-  <br/>
-
+  <summary></summary>
+  
 <p align="justify">I am a postgrad student of Business Analytics with over a year of professional experience in eCommerce and Internet Services Industry.</p>
 
-<p align="justify">I started in 2020 with Python, making simple data exploration projects and expanding my knowledge over time. Around mid-to-end 2021, I started to learn Machine Learning and Deep Learning concepts with Python libraries like SciKitLearn, Keras, TensorFlow to create predictive models. During this time I also started with my Analytics post graduate program and learned Big Data tools like Apache hadoop with Hive and Pig for web scraping and Business Intelligence tools like Tableau, Power BI and IBM Cognos. I am currently working at Tucows as a Customer Intelligence Researcher, building a strong foundation in data analytics and reporting</p>
+<p align="justify">I started in 2020 with Python, making simple data exploration projects and expanding my knowledge over time. Around mid-to-end 2021, I started to learn Machine Learning and Deep Learning concepts with Python libraries like SciKitLearn, Keras, TensorFlow to create predictive models. During this time I also started with my Analytics post graduate program and learned Big Data tools like Apache hadoop with Hive and Pig for web scraping and Business Intelligence tools like Tableau, Power BI and IBM Cognos. I am currently working at Tucows as a Customer Intelligence Researcher, building a strong foundation in data analytics and reporting.</p>
 
-<p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reportin is to help others. I enjoy being able to create something that stakeholders can use to make their desions easier and data driven </p>
+<p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reporting is to help others. I enjoy being able to create something that stakeholders can use to make their decisions easier and data driven.</p>
 </details>
 
+<summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
 <details>
-  <summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
-  <br/>
+  <summary></summary>
+  
 
 I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions.
 
