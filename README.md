@@ -107,9 +107,6 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 </details> 
 
 
-
-<summary><b>📊  &nbsp;&nbsp;My&nbsp;Viz&nbsp;</b></summary>
-
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="240" /></a>
