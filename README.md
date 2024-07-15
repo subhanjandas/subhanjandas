@@ -1,28 +1,19 @@
 [![Social banner for Subhanjan](https://github.com/subhanjandas/subhanjandas/blob/main/banner%20(1).png)](https://www.linkedin.com/in/subhanjan-das/)
 
-<p align="justify"> A Full-Stack Data Professional, experienced: 🛠️ <b>Data Engineer</b> | 👨🏻‍💻 Developer | 🧬 Data Scientist & 🤖 AI+ML | 🕵🏻 Data Analyst </p>
+<p align="justify"> A Full-Stack Data Professional, experienced: 🛠️ <b>Data Engineer</b> | 👨🏻‍💻 Developer | 🕵🏻 Data Analyst | 🧬 Data Scientist & 🤖 AI+ML </p>
 
-<b>MyStack</b> : ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![DataBricks](https://img.shields.io/badge/-DataBricks-000?&logo=DataBricks) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)   ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
+
+<b>Handy</b> : ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![DataBricks](https://img.shields.io/badge/-DataBricks-000?&logo=DataBricks) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)   ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
 
 Being a creative tech enthusiast, I love working + learning new softwares, tools, technologies & platforms! 
 Currently tinkering in:
  ![ChatGPT](https://img.shields.io/badge/-AI-000?&logo=OpenAI) ![ML Ops](https://img.shields.io/badge/-ML_Ops-000?&logo=numpy) ![DataBricks](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)   
 
-<div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="240" /></a>
-</div> 
 
-<br> 
+<details>   <summary><b> 👨 &nbsp;My&nbsp;Background </b></summary> 
 
-[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/subhanjan.subhasis.das) 
 
-📫 Reach me at **subhanjan33@gmail.com** or **subhanjandas33@gmail.com** 
-
-<summary><b><h2>👨&nbsp;&nbsp;About&nbsp;Me</h2></b></summary>
-<details>
-  <summary></summary>
-  
+<br>
 <p align="justify">I am a postgrad student of Business Analytics with over a year of professional experience in eCommerce and Internet Services Industry.</p>
 
 <p align="justify">I started in 2020 with Python, making simple data exploration projects and expanding my knowledge over time. Around mid-to-end 2021, I started to learn Machine Learning and Deep Learning concepts with Python libraries like SciKitLearn, Keras, TensorFlow to create predictive models. During this time I also started with my Analytics post graduate program and learned Big Data tools like Apache hadoop with Hive and Pig for web scraping and Business Intelligence tools like Tableau, Power BI and IBM Cognos. I am currently working at Tucows as a Customer Intelligence Researcher, building a strong foundation in data analytics and reporting.</p>
@@ -30,14 +21,12 @@ Currently tinkering in:
 <p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reporting is to help others. I enjoy being able to create something that stakeholders can use to make their decisions easier and data driven.</p>
 </details>
 
-<summary><b><h2>✨&nbsp;&nbsp;My&nbsp;Portfolio</h2></b></summary>
-<details>
-  <summary></summary>
+</br>
+
+<details>  <summary><b>✨&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
   
+<br>
 
-I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions.
-
-### My Portfolio
 - **Data Visualization and Dashboarding**: ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI) ![Google Analytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics) ![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker) ![Alteryx](https://img.shields.io/badge/-Alteryx-000?&logo=Alteryx) 
   - [E-Commerce Sales Analysis | Minimal Overview Dashboard](https://public.tableau.com/views/E-CommerceSalesDashboard_16746667527820/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link) - <br> Built a dashboard using Tableau that analyzes credit card complaints data. The dashboard allows for a comprehensive analysis of the data through the use of custom calculations and parameters. This enables users to identify patterns and trends in the data, and make data-driven decisions. The visualizations in the dashboard are interactive and visually appealing, making it easy to understand and interpret the data. The purpose of the project is to improve customer satisfaction and reduce complaints by gaining a better understanding of the complaints data. <br/>
   - [Modern Retail Sales Dashboard | Aesthetic Light and Dark Themes](https://public.tableau.com/views/ModernRetailSalesDashboardRWFD/Main-Light?:language=en-GB&:display_count=n&:origin=viz_share_link) - <br> This Tableau dashboard presents a modern and aesthetic analysis of retail sales, with light and dark themes for user preference. Key performance indicators (KPIs) are displayed with current and previous year sparklines and min-max indicators, and users can customize the dashboard with global filters. An interactive text summary of sales by region allows for a quick and easy view of performance by location. <br/>
@@ -83,9 +72,79 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 
 </details> 
 
+</br>
+
+<details>  <summary><b>🛠️ &nbsp;My&nbsp;Stack&nbsp;&nbsp;</b></summary>
+
 <br>
-  <h2><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></h2>
-  <br/>
+
+- **🛢 Databases** || Db2, Redis, Dynamo, MongoDB, Postgres, Cassandra
+
+- **🧑🏻‍💻 Programming** || Python, SQL, HiveQL, SAS, Scala, Shell/UNIX, R, C
+
+- **📶 BI Tools**|| Tableau, Power BI, Looker, Cognos, Alteryx, SAS BI, GA4
+
+- **🔢 Big Data** || Spark, Hadoop, Hive, Sqoop, HBase, Kafka, Impala, Hue
+
+- **💭 Azure Stack** || ADLS, Databricks, Visual Studio, Synapse, ADF, AKS
+
+- **💭 AWS Stack** || Glue, EC2, S3, Athena, Redshift, Lambda, IAM, RDS
+
+- **💭 GCP Stack** || BigQuery, Looker, Pub/Sub, Cloud Storage, Dataproc
+
+- **🔗 DevOps** || Docker, Kubernetes, Jenkins, Git, Azure, YAML, JSON
+
+- **🤖 AI/ML** || Sklearn, Pytorch, TF, Keras, AzureML, SageMaker, AutoML
+
+- **🎯 SDLC** || SAFe® Agile, Kanban, Jira, Confluence, Scrum, Waterfall
+
+- **📝 Code Management** || Github, BitBucket, GitLab, AWS CodeCommit
+
+- **🧮 Mainframe** || COBOL, JCL, VSAM, DB2, TSO/ISPF, TSYS TS2®, zOS
+
+</details> 
+
+</br>
+
+<details>  <summary><b>🔏 &nbsp;My&nbsp;Certifications&nbsp;</b></summary>
+
+<br>
+
+- [**Tableau Desktop Specialist**](https://www.credly.com/badges/89778b70-82ae-4d4b-b349-e0349268e1da/linked_in?t=rpb0wi)
+
+- [**Advanced Google Analytics**](https://analytics.google.com/analytics/academy/certificate/LKbVSa-ZSJywB_Py6hS4MA)
+
+- [**Google Analytics for Power Users**](https://analytics.google.com/analytics/academy/certificate/NPdQdbnGSI61_wQVArVxbg)
+
+
+</details> 
+
+</br>
+
+<details>  <summary><b>🔬 &nbsp;My&nbsp;Publications&nbsp;</b></summary>
+
+<br>
+
+- [**Design of a Compact Negative-Edge Triggered T Flip-Flop in QCA Technology**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592181) - The International Journal of Electrical Engineering and Technology (IJEET)
+
+- [**Design of Efficient Adders & Subtractors based on Quantum Dot Cellular Automata**](https://www.ijraset.com/fileserve.php?FID=29022) - International Journal for Research in Applied Science and Engineering Technology (IJRASET)
+
+
+</details> 
+
+</br>
+
+<summary><b>📊  &nbsp;&nbsp;My&nbsp;Viz&nbsp;</b></summary>
+
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="240" /></a>
+</div> 
+
+
+
+[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/subhanjan.subhasis.das) 
+
 
 <p align="left">
       <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="Tableau" width="65" height="65"/> 
