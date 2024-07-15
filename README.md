@@ -18,11 +18,8 @@ Currently tinkering in:
 <p align="justify">Over the last year, my knowledge and experience with Business Intelligence tools have expanded, as has my interest. I am proficient in using Tableau and Power BI with Python and SQL environment, as well as Google Cloud Platform. I also have a solid understanding of Mathematics and Statistics, and am able to work with large and complex datasets. My goal with data analytics, visualization and Reporting is to help others. I enjoy being able to create something that stakeholders can use to make their decisions easier and data driven.</p>
 </details>
 
-</br>
-
 <details>  <summary><b>✨&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
   
-<br>
 
 - **Data Visualization and Dashboarding**: ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau) ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI) ![Google Analytics](https://img.shields.io/badge/-GoogleAnalytics-000?&logo=GoogleAnalytics) ![Looker](https://img.shields.io/badge/-Looker-000?&logo=Looker) ![Alteryx](https://img.shields.io/badge/-Alteryx-000?&logo=Alteryx) 
   - [E-Commerce Sales Analysis | Minimal Overview Dashboard](https://public.tableau.com/views/E-CommerceSalesDashboard_16746667527820/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link) - <br> Built a dashboard using Tableau that analyzes credit card complaints data. The dashboard allows for a comprehensive analysis of the data through the use of custom calculations and parameters. This enables users to identify patterns and trends in the data, and make data-driven decisions. The visualizations in the dashboard are interactive and visually appealing, making it easy to understand and interpret the data. The purpose of the project is to improve customer satisfaction and reduce complaints by gaining a better understanding of the complaints data. <br/>
@@ -52,28 +49,13 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
   - [Telecomm Customer Churn - Data Modeling and Finding Main Drivers with IBM Cognos Analytics](https://github.com/subhanjandas/Data-Modelling-and-Dashboarding-with-IBM-Cognos-Analytics) - <br> In this project, IBM Cognos Analytics was used to analyze Telecomm customer churn data to determine the main drivers affecting customer churn. By answering questions such as what were the top three key drivers affecting churn, insights were gained on customer tenure with fiber optic, payment method, and internet service type. The results showed that customers with a tenure less than three months and fiber optic service, paying with electronic check, had the highest churn rate. </br>
 
 
-
-
-
 [⏩ &nbsp; and many more](https://github.com/subhanjandas?tab=repositories) 
-
-
-### 🔏 Certifications
-- [Tableau Desktop Specialist](https://www.credly.com/badges/89778b70-82ae-4d4b-b349-e0349268e1da/linked_in?t=rpb0wi)
-- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/certificate/LKbVSa-ZSJywB_Py6hS4MA)
-- [Google Analytics for Power Users](https://analytics.google.com/analytics/academy/certificate/NPdQdbnGSI61_wQVArVxbg)
-
-### 🔬 Research Publications
-- [Design of a Compact Negative-Edge Triggered T Flip-Flop in QCA Technology](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592181) - The International Journal of Electrical Engineering and Technology (IJEET)
-- [Design of Efficient Adders & Subtractors based on Quantum Dot Cellular Automata](https://www.ijraset.com/fileserve.php?FID=29022) - International Journal for Research in Applied Science and Engineering Technology (IJRASET)
 
 </details> 
 
-</br>
+
 
 <details>  <summary><b>🛠️ &nbsp;My&nbsp;Stack&nbsp;&nbsp;</b></summary>
-
-<br>
 
 - **🛢 Databases** || Db2, Redis, Dynamo, MongoDB, Postgres, Cassandra
 
@@ -101,11 +83,9 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 
 </details> 
 
-</br>
 
 <details>  <summary><b>🔏 &nbsp;My&nbsp;Certifications&nbsp;</b></summary>
 
-<br>
 
 - [**Tableau Desktop Specialist**](https://www.credly.com/badges/89778b70-82ae-4d4b-b349-e0349268e1da/linked_in?t=rpb0wi)
 
@@ -116,11 +96,10 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 
 </details> 
 
-</br>
 
 <details>  <summary><b>🔬 &nbsp;My&nbsp;Publications&nbsp;</b></summary>
 
-<br>
+
 
 - [**Design of a Compact Negative-Edge Triggered T Flip-Flop in QCA Technology**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592181) - The International Journal of Electrical Engineering and Technology (IJEET)
 
@@ -129,7 +108,7 @@ This project aimed to predict customer purchasing behavior for a supermarket's n
 
 </details> 
 
-</br>
+
 
 <summary><b>📊  &nbsp;&nbsp;My&nbsp;Viz&nbsp;</b></summary>
 
