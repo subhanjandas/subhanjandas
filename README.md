@@ -1,12 +1,12 @@
 [![Social banner for Subhanjan](https://github.com/subhanjandas/subhanjandas/blob/main/banner%20(1).png)](https://www.linkedin.com/in/subhanjan-das/)
 
-<p align="justify"> A Full-Stack Data Professional, experienced: <b>Data Engineer</b> | Developer | Data Scientist | "Reluctant" Data Analyst | Business Intelligence & Reporting Analyst | Data Migration | Cloud Engineer </p>
+<p align="justify"> A Full-Stack Data Professional, experienced: <b>Data Engineer</b> | Developer | Data Scientist | "Reluctant" Data Analyst </p>
 
-<b>Wiz in</b> : ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![DataBricks](https://img.shields.io/badge/-DataBricks-000?&logo=DataBricks) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)   ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)   ![DataBricks](https://img.shields.io/badge/-LaTex-000?&logo=latex)  
-   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
+<b>Wiz in</b> : ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  ![DataBricks](https://img.shields.io/badge/-DataBricks-000?&logo=DataBricks) ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)  ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)   ![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)   ![Hive](https://img.shields.io/badge/-Hive-000?&logo=apachehive)   ![Azure](https://img.shields.io/badge/-Azure-000?&logo=google-cloud)   ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=Amazon%20DynamoDB)
 
-Being a creative tech enthusiast, I love working + learning new softwares, tools, technologies & platforms! Currently tinkering in: ![ChatGPT](https://img.shields.io/badge/-AI-000?&logo=OpenAI) ![ML Ops](https://img.shields.io/badge/-ML_Ops-000?&logo=numpy) ![DataBricks](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)   
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
+Being a creative tech enthusiast, I love working + learning new softwares, tools, technologies & platforms! 
+Currently tinkering in:
+ ![ChatGPT](https://img.shields.io/badge/-AI-000?&logo=OpenAI) ![ML Ops](https://img.shields.io/badge/-ML_Ops-000?&logo=numpy) ![DataBricks](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)   
 
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
