@@ -9,7 +9,7 @@ Being a creative tech enthusiast, I love working + learning new softwares, tools
 
 
 <br>
-<p align="justify">I am a postgrad student of Business Analytics with over a year of professional experience in eCommerce and Internet Services Industry.</p>
+<p align="justify">I am a MS CS student with over four years of professional experience in eCommerce and Internet Services Industry.</p>
 
 <p align="justify">I started in 2020 with Python, making simple data exploration projects and expanding my knowledge over time. Around mid-to-end 2021, I started to learn Machine Learning and Deep Learning concepts with Python libraries like SciKitLearn, Keras, TensorFlow to create predictive models. During this time I also started with my Analytics post graduate program and learned Big Data tools like Apache hadoop with Hive and Pig for web scraping and Business Intelligence tools like Tableau, Power BI and IBM Cognos. I am currently working at Tucows as a Customer Intelligence Researcher, building a strong foundation in data analytics and reporting.</p>
 
